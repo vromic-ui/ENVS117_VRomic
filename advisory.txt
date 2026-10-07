@@ -1,0 +1,20 @@
+Station: SCU-01 (Santa Clara University)
+Category: Unhealthy for Sensitive Groups
+24-Hour Mean: 48.9 ug/m3
+Peak Value: 126.6 ug/m3
+
+Station: SJ-01 (Downtown San Jose)
+Category: Unhealthy for Sensitive Groups
+24-Hour Mean: 54.8 ug/m3
+Peak Value: 142.6 ug/m3
+
+Station: MH-01 (Morgan Hill)
+Category: Unhealthy
+24-Hour Mean: 66.9 ug/m3
+Peak Value: 170.1 ug/m3
+
+Station: LG-01 (Los Gatos)
+Category: Unhealthy for Sensitive Groups
+24-Hour Mean: 50.6 ug/m3
+Peak Value: 147.1 ug/m3
+

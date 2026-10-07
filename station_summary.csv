@@ -1,0 +1,9 @@
+station_id,station_name,dist_to_fire_km,n_hours,mean_pm25,peak_pm25,hours_above_35_4,aqi_category
+SCU-01,Santa Clara University,41.0,24,48.9,126.6,11,Unhealthy for Sensitive Groups
+SJ-01,Downtown San Jose,37.7,23,54.8,142.6,12,Unhealthy for Sensitive Groups
+GIL-01,Gilroy,16.1,22,6.8,11.3,0,Good
+MH-01,Morgan Hill,9.5,23,66.9,170.1,13,Unhealthy
+LG-01,Los Gatos,37.8,24,50.6,147.1,12,Unhealthy for Sensitive Groups
+PA-01,Palo Alto,61.7,23,31.8,82.5,10,Moderate
+FRE-01,Fremont,58.9,23,31.9,80.5,8,Moderate
+LIV-01,Livermore,62.2,23,20.7,41.7,5,Moderate
